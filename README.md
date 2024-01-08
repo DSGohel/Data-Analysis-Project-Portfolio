@@ -20,3 +20,16 @@ Note: To download the data, scroll down little bit and there will be a chart. An
 -------------------------------------------------------------------------------------------------------
 
 Find my Tableau Dashboards: https://public.tableau.com/app/profile/dhaivat.gohel7346/vizzes
+
+-------------------------------------------------------------------------------------------------------
+
+Here is the link to the LEGO Dataset that I have used...
+
+https://rebrickable.com/downloads/
+
+Note: I have only used 4 files listed below:
+
+1. themes.csv
+2. colors.csv
+3. sets.csv
+4. inventory_parts.csv
